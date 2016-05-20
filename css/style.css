@@ -32,9 +32,12 @@ body {
 }
 
 .profession {
-
+	font-size: 14px;
+	color: #24c5a1;
 }
 
 .description {
+	font-size: 14px;
+	color: #000000;
 	
 }
